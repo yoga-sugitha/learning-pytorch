@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+ai-lab/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore data files
+*.csv
+*.h5
