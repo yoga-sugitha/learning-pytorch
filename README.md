@@ -3,11 +3,12 @@
 
 ````markdown
 # 🧾 Git Commands Cheat Sheet
+''''
 ## 1. 🔍 Check Repo Status
 
 ```bash
 git status
-````
+```
 
 Shows changes, untracked files, and branch info.
 
